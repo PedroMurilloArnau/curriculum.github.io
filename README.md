@@ -1,0 +1,1 @@
+The images for the index carousel have that dimension 500px and 600px
